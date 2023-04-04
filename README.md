@@ -1,0 +1,1 @@
+- https://github.com/kamilkisiela/graphql-hive/blob/main/docker/docker-compose.community.yml
